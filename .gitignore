@@ -1,0 +1,21 @@
+# Banco de dados
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Configurações do VS Code
+.vscode/
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
