@@ -186,10 +186,6 @@ O sistema utiliza consultas SQL para:
 * Preparação dos dados para relatórios
 
 ---
-
-## Estrutura do projeto
-
-```text
 Controle_Chamados_TI/
 │
 ├── banco/
@@ -202,12 +198,12 @@ Controle_Chamados_TI/
 │   └── main.py
 │
 ├── imagens/
-│   ├── 01-menu-principal.png
-│   ├── 02-novo-chamado.png
-│   ├── 03-consulta-chamados.png
-│   ├── 04-gerenciar-chamado.png
-│   ├── 05-relatorios.png
-│   └── 06-relatorio-excel.png
+│   ├── menu-principal.png
+│   ├── novo-chamado.png
+│   ├── consulta-chamados.png
+│   ├── gerenciar-chamado.png
+│   ├── relatorios.png
+│   └── relatorio-excel.png
 │
 ├── relatorios/
 │   └── relatorio_chamados.xlsx
