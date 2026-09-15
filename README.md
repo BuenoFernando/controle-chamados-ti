@@ -111,9 +111,9 @@ Também é possível exportar os chamados cadastrados para uma planilha Excel.
 
 A aplicação gera automaticamente um arquivo:
 
-```text
+text
 relatorios/relatorio_chamados.xlsx
-```
+
 
 O relatório contém informações como:
 
@@ -153,15 +153,15 @@ O projeto utiliza **SQLite**, um banco de dados relacional integrado ao Python, 
 
 A aplicação cria e utiliza o arquivo:
 
-```text
+text
 banco/chamados.db
-```
+
 
 ### Tabela principal
 
 A tabela `chamados` armazena informações relacionadas ao atendimento, incluindo:
 
-```text
+text
 id
 data_abertura
 solicitante
@@ -173,7 +173,7 @@ responsavel
 status
 solucao
 data_encerramento
-```
+
 
 O sistema utiliza consultas SQL para:
 
@@ -186,6 +186,9 @@ O sistema utiliza consultas SQL para:
 * Preparação dos dados para relatórios
 
 ---
+<<<<<<< HEAD
+=======
+
 Controle_Chamados_TI/
 │
 ├── banco/
@@ -210,7 +213,7 @@ Controle_Chamados_TI/
 │
 ├── .gitignore
 └── README.md
-```
+
 
 ### Organização dos arquivos
 
