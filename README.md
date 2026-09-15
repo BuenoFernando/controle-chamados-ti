@@ -186,9 +186,9 @@ O sistema utiliza consultas SQL para:
 * Preparação dos dados para relatórios
 
 ---
-<<<<<<< HEAD
-=======
+## 📁 Estrutura do Projeto
 
+```text
 Controle_Chamados_TI/
 │
 ├── banco/
